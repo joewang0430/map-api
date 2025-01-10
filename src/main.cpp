@@ -1,8 +1,10 @@
-# include <stdio.h>
+# include <iostream>
+using namespace std;
 
 int main(void){
 
-    printf("This is a test\n");
+    cout << "This is a test\n" << endl;
+    cout << "this is a lined added by Alex\n" << endl;
 
    return 0;
 }
