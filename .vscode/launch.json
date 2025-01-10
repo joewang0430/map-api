@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/juanjuan1/Desktop/map-api/src",
+      "program": "/Users/juanjuan1/Desktop/map-api/src/build/Debug/outDebug"
+    }
+  ]
+}
